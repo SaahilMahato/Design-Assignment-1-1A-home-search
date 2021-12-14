@@ -12,7 +12,7 @@
     width: 1002px;
     margin: 0 auto;
     background-color: white;
-    margin-bottom: 30px;
+    margin-bottom: 30px; /* meausred form tutangle image in figma*/
 }
 
 .float-left {
@@ -29,17 +29,17 @@
 
 header {
     width: 100%;
-    height: 86px;
+    height: 86px; /* meausred form tutangle image in figma*/
     background-color: #7DD8E8;
 }
 
 main {
-    margin-top: 30px !important;
+    margin-top: 30px !important; /* meausred form tutangle image in figma*/
 }
   
 .sidebar {
-    width: 194px;
-    height: 605px;
+    width: 194px; /* meausred form tutangle image in figma*/
+    height: 605px; /* meausred form tutangle image in figma*/
     background-color: #f5f5f5;
 }
   
@@ -48,18 +48,18 @@ main {
 }
 
 .main-content {
-    width: 518px;
-    margin-left: 28px;
+    width: 518px; /* meausred form tutangle image in figma*/
+    margin-left: 26px; /* meausred form tutangle image in figma*/
 }
 
 .right-sidebar {
-    height: 605px;
-    width: 177px;
+    height: 605px; /* meausred form tutangle image in figma*/
+    width: 177px; /* meausred form tutangle image in figma*/
     background-color: #f5f5f5;
 }
 
 footer {
-    width: 1002px;
+    width: 1002px; /* meausred form tutangle image in figma*/
     height: 12px;
     margin: 0 auto;
     background-color: #727272;
